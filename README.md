@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinha-Ujjawal)](https://github.com/Sinha-Ujjawal/Sinha-Ujjawal)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinha-Ujjawal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&layout=compact)](https://github.com/Sinha-Ujjawal/Sinha-Ujjawal)
 
-[![Stats](https://github-readme-stats.vercel.app/api/?username=Sinha-Ujjawal)](https://github.com/Sinha-Ujjawal/Sinha-Ujjawal)
+[![Stats](https://github-readme-stats.vercel.app/api/?username=Sinha-Ujjawal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/Sinha-Ujjawal/Sinha-Ujjawal)
 
 <!--
 **Sinha-Ujjawal/Sinha-Ujjawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
